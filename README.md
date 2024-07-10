@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatev98&label=Profile%20views&color=0e75b6&style=flat" alt="tatev98" /> </p>
 
 
-- 🔭 I’m currently working on **MTailor**
+- 🔭 I’m currently working at **Simply Technologies**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently working on **Car Management Mobile App**
 
 - 💬 Ask me about **Android, Kotlin**
 
